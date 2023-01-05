@@ -4,7 +4,7 @@ repo: botbuilders # The name of this repository
 
 sites:
   - name: Chatrace Login
-     url: https://chatrace.com/en/login.php  
+     url: https://chatrace.com/en/login.php
   - name: BotBuilders Login
      url: https://app.botbuilders.tech/en/login.php
   - name: BotBuilders.tech
