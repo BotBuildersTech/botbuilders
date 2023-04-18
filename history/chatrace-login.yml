@@ -1,7 +1,7 @@
 url: https://chatrace.com/en/login.php
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2023-04-17T23:16:53.033Z
+status: down
+code: 500
+responseTime: 17459
+lastUpdated: 2023-04-18T06:59:06.355Z
 startTime: Wed Jan 04 2023 13:04:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
