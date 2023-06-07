@@ -50,18 +50,20 @@
     "url": "https://www.BotBuilders.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.botbuilders.tech.ico",
     "slug": "bot-builders-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 806,
     "timeDay": 10189,
-    "timeWeek": 6719,
+    "timeWeek": 6881,
     "timeMonth": 3031,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "Chatrace",
@@ -102,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-07": 75,
+      "2023-06-07": 1172,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
