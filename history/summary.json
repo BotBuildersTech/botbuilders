@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatrace.com.ico",
     "slug": "chatrace-login",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 510,
-    "timeDay": 336,
-    "timeWeek": 481,
-    "timeMonth": 441,
-    "timeYear": 442,
+    "timeDay": 268,
+    "timeWeek": 472,
+    "timeMonth": 440,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2024-03-17": 18,
       "2023-11-29": 41,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 527,
-    "timeDay": 296,
-    "timeWeek": 545,
-    "timeMonth": 477,
+    "time": 528,
+    "timeDay": 761,
+    "timeWeek": 552,
+    "timeMonth": 491,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2024-03-17": 18,
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 70,
-    "timeWeek": 126,
-    "timeMonth": 114,
+    "time": 626,
+    "timeDay": 124,
+    "timeWeek": 115,
+    "timeMonth": 105,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 449,
+    "time": 662,
+    "timeDay": 414,
     "timeWeek": 588,
-    "timeMonth": 597,
-    "timeYear": 606,
+    "timeMonth": 599,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -96,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-27": 62,
+      "2024-07-28": 68,
+      "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -459,8 +460,7 @@
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
-      "2023-07-30": 1440,
-      "2023-07-29": 1440
+      "2023-07-30": 1440
     }
   }
 ]
