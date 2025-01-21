@@ -6,13 +6,13 @@
     "slug": "chatrace-login",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 445,
-    "timeDay": 643,
-    "timeWeek": 465,
+    "timeDay": 268,
+    "timeWeek": 464,
     "timeMonth": 467,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -28,14 +28,14 @@
     "slug": "bot-builders-login",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 501,
-    "timeDay": 542,
-    "timeWeek": 455,
-    "timeMonth": 501,
+    "time": 500,
+    "timeDay": 361,
+    "timeWeek": 447,
+    "timeMonth": 499,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2025-01-19": 36,
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 76,
-    "timeWeek": 92,
-    "timeMonth": 88,
+    "timeDay": 87,
+    "timeWeek": 85,
+    "timeMonth": 87,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
-    "timeDay": 427,
-    "timeWeek": 486,
-    "timeMonth": 518,
+    "timeDay": 501,
+    "timeWeek": 498,
+    "timeMonth": 510,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 71,
+      "2025-01-21": 70,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -459,8 +460,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-23": 1440
     }
   }
 ]
