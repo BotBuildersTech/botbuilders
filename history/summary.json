@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatrace.com.ico",
     "slug": "chatrace-login",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 446,
-    "timeDay": 326,
-    "timeWeek": 342,
-    "timeMonth": 375,
+    "time": 445,
+    "timeDay": 388,
+    "timeWeek": 363,
+    "timeMonth": 378,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-03-12": 21,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 502,
-    "timeDay": 441,
-    "timeWeek": 475,
-    "timeMonth": 478,
+    "time": 501,
+    "timeDay": 498,
+    "timeWeek": 501,
+    "timeMonth": 479,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2025-03-12": 19,
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 126,
-    "timeWeek": 118,
-    "timeMonth": 125,
-    "timeYear": 185,
+    "timeDay": 216,
+    "timeWeek": 137,
+    "timeMonth": 128,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 329,
-    "timeWeek": 500,
-    "timeMonth": 470,
-    "timeYear": 559,
+    "timeDay": 562,
+    "timeWeek": 520,
+    "timeMonth": 475,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -96,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 85,
+      "2025-06-25": 86,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -459,8 +460,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   }
 ]
