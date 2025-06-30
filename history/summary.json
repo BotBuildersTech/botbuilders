@@ -48,19 +48,19 @@
     "url": "https://www.BotBuilders.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.botbuilders.tech.ico",
     "slug": "bot-builders-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 22074,
-    "timeWeek": 8914,
-    "timeMonth": 2710,
-    "timeYear": 424,
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 399,
+    "timeDay": 23431,
+    "timeWeek": 10727,
+    "timeMonth": 3457,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-06-30": 24
+      "2025-06-30": 62
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 614,
+      "2025-06-30": 652,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
