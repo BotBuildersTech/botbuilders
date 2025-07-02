@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 444,
-    "timeDay": 311,
-    "timeWeek": 353,
-    "timeMonth": 364,
-    "timeYear": 447,
+    "timeDay": 381,
+    "timeWeek": 352,
+    "timeMonth": 366,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-12": 21,
       "2025-01-19": 36,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 501,
-    "timeDay": 281,
-    "timeWeek": 449,
-    "timeMonth": 470,
-    "timeYear": 510,
+    "timeDay": 349,
+    "timeWeek": 428,
+    "timeMonth": 471,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2025-03-12": 19,
       "2025-01-19": 36,
@@ -50,13 +50,13 @@
     "slug": "bot-builders-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "95.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 399,
-    "timeDay": 23431,
-    "timeWeek": 10724,
+    "timeDay": 106,
+    "timeWeek": 10714,
     "timeMonth": 3556,
     "timeYear": 501,
     "dailyMinutesDown": {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 482,
-    "timeWeek": 518,
-    "timeMonth": 483,
-    "timeYear": 555,
+    "time": 557,
+    "timeDay": 468,
+    "timeWeek": 505,
+    "timeMonth": 485,
+    "timeYear": 554,
     "dailyMinutesDown": {}
   },
   {
@@ -98,7 +98,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 104,
+      "2025-07-02": 85,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -461,8 +462,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   }
 ]
