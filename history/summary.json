@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 354,
-    "timeWeek": 420,
-    "timeMonth": 370,
-    "timeYear": 436,
+    "time": 435,
+    "timeDay": 257,
+    "timeWeek": 390,
+    "timeMonth": 367,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2025-03-12": 21,
       "2025-01-19": 36
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 499,
-    "timeDay": 378,
-    "timeWeek": 396,
+    "timeDay": 371,
+    "timeWeek": 399,
     "timeMonth": 546,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 707,
-    "timeDay": 632,
-    "timeWeek": 205,
-    "timeMonth": 212,
+    "timeDay": 75,
+    "timeWeek": 188,
+    "timeMonth": 211,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2025-07-04": 80,
@@ -75,10 +75,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 556,
-    "timeDay": 654,
-    "timeWeek": 538,
-    "timeMonth": 599,
+    "time": 557,
+    "timeDay": 596,
+    "timeWeek": 510,
+    "timeMonth": 605,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-08-16": 38,
@@ -91,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-website",
     "status": "down",
-    "uptime": "5.19%",
+    "uptime": "5.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.84%",
+    "uptimeYear": "14.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -414,8 +414,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]
