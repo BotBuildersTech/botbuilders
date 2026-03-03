@@ -1,7 +1,7 @@
 url: https://app.botbuilders.tech/en/login.php
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2026-03-02T23:32:33.942Z
+status: down
+code: 500
+responseTime: 1116
+lastUpdated: 2026-03-03T12:03:15.530Z
 startTime: 2023-01-04T13:04:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
