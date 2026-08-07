@@ -31,16 +31,16 @@
     "url": "https://app.botbuilders.tech/en/login.php",
     "icon": "https://icons.duckduckgo.com/ip3/app.botbuilders.tech.ico",
     "slug": "bot-builders-login",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.85%",
     "time": 502,
-    "timeDay": 637,
-    "timeWeek": 486,
-    "timeMonth": 461,
+    "timeDay": 553,
+    "timeWeek": 475,
+    "timeMonth": 458,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2025-08-16": 39,
@@ -53,7 +53,7 @@
       "2026-03-03": 72,
       "2026-04-10": 178,
       "2026-04-14": 82,
-      "2026-08-07": 1
+      "2026-08-07": 59
     }
   },
   {
